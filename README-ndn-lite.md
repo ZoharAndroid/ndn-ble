@@ -11,6 +11,7 @@ ndn-lite库独立于OS和开发工具，通过平台和ndn-lite之间创建精�
 ndn-lite库旨在提供核心的NDN网络栈。ndn-lite库允许应用程序直接集成一些功能，包括：访问控制、服务发现、Schematized Trust等等。
 
 项目的体系结构如下图所示
+![](https://github.com/ZoharAndroid/ndn-ble/blob/master/assets/iot-framework.jpg?raw=true)
 
 
 ## 参考资料
