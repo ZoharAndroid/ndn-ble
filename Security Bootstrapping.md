@@ -9,4 +9,7 @@
 3. 目前在NRF板上通过BLE实现该协议。本节旨在帮助那些有兴趣帮助改进实现的人，或作为那些希望更好地理解当前在ndn-lite中实现引导的基础机制的人的参考。
 
 如果您想了解更多的有关登录协议的信息，可以在此处阅读原始论文：
-[ndn-sercure-sign-on.pdf]()
+[ndn-sercure-sign-on.pdf](https://github.com/ZoharAndroid/ndn-ble/blob/master/assets/ndn-secure-sign-on.pdf)
+
+## 协议概述
+
