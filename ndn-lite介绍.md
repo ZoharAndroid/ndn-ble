@@ -47,7 +47,7 @@ ndn-lite库旨在提供核心的NDN网络栈。ndn-lite库允许应用程序直�
    * 用于数据包的AES加密内容为TLV。
 
 3. 应用支持层：
-   * 易于使用的安全引导模块，可实现高效，安全的信任锚安装和身份证书颁发。[此处查看协议详细信息](https://github.com/named-data-iot/ndn-lite/wiki/Security-Bootstrapping)。
+   * 易于使用的安全引导模块，可实现高效，安全的信任锚安装和身份证书颁发。[此处查看协议详细信息](https://github.com/ZoharAndroid/ndn-ble/blob/master/Security%20Bootstrapping.md)。
    * 轻量级基于名称访问控制，提供数据机密性和对数据访问的控制。[此处查看协议详细信息](https://github.com/named-data-iot/ndn-lite/wiki/Access-Control)。
    * 轻量级服务发现协议模块，用于使应用程序向网络提供服务或利用网络系统中的现有服务。 [此处查看协议详细信息](https://github.com/named-data-iot/ndn-lite/wiki/Service-Discovery)。
 
