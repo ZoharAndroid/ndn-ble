@@ -15,7 +15,7 @@
 * 需要注意的部分就是：
 点手机屏幕上显示的设备的图片，可以看到信任策略选项：“仅控制器”或“所有节点”。"仅控制器"意味着用户不能通过按下按钮1或从另一个板发送命令来打开LED 1。"所有节点"指相反。按所需选项，手机将向设备发送信任策略切换兴趣，设备将闪烁LED 4指示切换。
 
-## ndn-lite介绍
+## NDN-Lite介绍
 
 [ndn-lite](https://github.com/ZoharAndroid/ndn-ble/blob/master/ndn-lite%E4%BB%8B%E7%BB%8D.md)
 
